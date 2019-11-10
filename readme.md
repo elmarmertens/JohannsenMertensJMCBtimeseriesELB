@@ -1,7 +1,7 @@
 # REPLICATION FILES
 # "A Time Series Model of Interest Rates With the Effective Lower Bound"
 
-This readme file describes the set of replication files (“the replication set“) for “A Time Series Model of Interest RatesWith the Effective Lower Bound“ forthcoming in the Journal of Money, Credit, and Banking. The replication set contains code as well as all of our input data in raw form as obtained from their original sources described further below.
+This readme file describes the set of replication files (“the replication set“) for “A Time Series Model of Interest Rates With the Effective Lower Bound“ forthcoming in the Journal of Money, Credit, and Banking. The replication set contains code as well as all of our input data in raw form as obtained from their original sources described further below.
 
 
 ### Authors
